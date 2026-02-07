@@ -1,15 +1,18 @@
 # E-Commerce Frontend Website
+Live Demo: https://nandini-1811.github.io/E-commerce-frontend-website/
 
 A fully responsive e-commerce website built using:
+## 👩‍💻 Tech stack
 - HTML
 - CSS
 - JavaScript
 
-Live Demo: https://nandini-1811.github.io/E-commerce-frontend-website/
+## 🚀 Features
+- Fully responsive UI  
+- Cart page  
+- Product page
 
-Features:
-- Responsive design
-- Product listing
-- Product detail page
-- Cart page
-- Modern UI
+## 📦 Run Locally
+1. Clone repo
+2. Open `index.html`
+
